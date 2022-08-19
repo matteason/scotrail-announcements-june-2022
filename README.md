@@ -1,4 +1,4 @@
-This repository contains ScotRail announcements that were published as part of [ScotRail's publication scheme](https://www.scotrail.co.uk/about-scotrail/information-requests/scotrail-trains-limited-publication-scheme)
+This repository contains ScotRail announcements that were published as part of [ScotRail's publication scheme](https://www.scotrail.co.uk/about-scotrail/information-requests/scotrail-trains-limited-publication-scheme) in June 2022.
 
 See [this Google sheet](https://docs.google.com/spreadsheets/d/1jAtNLBXLYwTraaC_IGAAs53jJWWEQUtFrocS5jW31JM/edit#gid=0) for transcriptions of each file.
 
