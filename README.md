@@ -4,6 +4,8 @@ This repository contains ScotRail announcements that were published as part of [
 
 You can listen to these announcements set to ambient music on [Ambient ScotRail Beats](https://matteason.co.uk/scotbeats).
 
+They're also available in a [Google Drive folder](https://drive.google.com/drive/u/0/folders/172W6sXnvlr7UcNLipO8BTw417_KRz9c5), which you may find easier to navigate as it's split into subfolders of 200 files.
+
 ScotRail's copyright policy for these announcements is as follows:
 
 > Where ScotRail Trains Limited holds the copyright in its published information, the information may be copied or reproduced without formal permission, provided that:
