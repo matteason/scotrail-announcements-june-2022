@@ -1,10 +1,15 @@
 # ScotRail announcements 2022
 
-This repository contains ScotRail announcements that were published as part of [ScotRail's publication scheme](https://www.scotrail.co.uk/about-scotrail/information-requests/scotrail-trains-limited-publication-scheme) in June 2022.
+This repository contains ScotRail announcements that were published as part of [ScotRail's publication scheme](https://www.scotrail.co.uk/about-scotrail/information-requests/scotrail-trains-limited-publication-scheme) in June 2022. The original release was a single >2 hour mp3; this repo contains the same announcements split into individual files.
+
+The `announcements` folder contains the announcements numbered in the order they appear in the original release. `announcements-by-content` contains the same files, renamed with their transcription, suffixed with the original file number. Stations also contain the [three-letter station code](https://www.nationalrail.co.uk/stations_destinations/48541.aspx).
+
+See [simonw](https://github.com/simonw)'s [Datasette dashboard](https://scotrail.datasette.io/scotrail/announcements) for transcriptions and an easier way to browse and play these files. Simon's work is based on [this Google Sheet](https://docs.google.com/spreadsheets/d/1jAtNLBXLYwTraaC_IGAAs53jJWWEQUtFrocS5jW31JM/edit#gid=0), which was crowdsourced on Twitter.
+
+They're also available in a [Google Drive folder](https://drive.google.com/drive/u/0/folders/172W6sXnvlr7UcNLipO8BTw417_KRz9c5), which you may find easier to navigate than this repo as it's split into subfolders of 200 files.
 
 You can listen to these announcements set to ambient music on [Ambient ScotRail Beats](https://matteason.co.uk/scotbeats).
 
-They're also available in a [Google Drive folder](https://drive.google.com/drive/u/0/folders/172W6sXnvlr7UcNLipO8BTw417_KRz9c5), which you may find easier to navigate as it's split into subfolders of 200 files.
 
 ScotRail's copyright policy for these announcements is as follows:
 
@@ -18,9 +23,7 @@ If you find these files useful and you're feeling spendy you can [buy me a coffe
 
 ## Crowdsourced transcriptions
 
-See [this Google Sheet](https://docs.google.com/spreadsheets/d/1jAtNLBXLYwTraaC_IGAAs53jJWWEQUtFrocS5jW31JM/edit#gid=0) for transcriptions of each file.
-
-Thank you to the community on Twitter for putting together these transcriptions. Here's how it happened:
+Thank you to the community on Twitter for transcribing the announcements. Here's how it happened:
 
 Jon Brady of the Daily Record posted [a tweet](https://twitter.com/jonbradyphoto/status/1560630522002321408) with the full >2 hour recording, released in response to an FOI request. I saw a retweet by [Heather Burns](https://twitter.com/WebDevLaw/status/1560639538308980736), thought it was fun and thought it should be easy to split it out since there was exactly 2 seconds of silence between each announcement. I found some software to do that ([WavePad](https://www.nch.com.au/wavepad/index.html)) and uploaded them to Google Drive since people were saying how good they'd be as music samples.
 
